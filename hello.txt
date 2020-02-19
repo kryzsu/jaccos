@@ -1,3 +1,3 @@
 elso sor
 masodik sor
-2
+2,1
